@@ -50,6 +50,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public boolean onNavigationItemSelected(@NonNull MenuItem item) {
       mCurrentTask = item.getTitle().toString();
+      mToolbar.setTitle(mCurrentTask);
       queryYouTubeApi();
       return true;
     }
