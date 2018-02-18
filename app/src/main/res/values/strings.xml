@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Shortcuts</string>
+    <string name="liked">Liked</string>
+    <string name="playlists">Playlists</string>
+    <string name="subscriptions">Subscriptions</string>
+    <string name="other">Other</string>
+    <string name="get_account_msg">To search YouTube we need access to your Google account</string>
+    <string name="no_playlists_found">No playlists found</string>
+    <string name="no_subscriptions_found">No subscriptions found</string>
+    <string name="no_liked_videos_found">No liked videos found</string>
+    <string name="playlist_error">"There was a problem retrieving your YouTube playlists"</string>
+    <string name="subscription_error">"There was a problem retrieving your YouTube subscriptions"</string>
+    <string name="liked_video_error">"There was a problem retrieving your YouTube liked videos"</string>
+    <string name="other_error">"There was a problem curating other YouTube shortcuts"</string>
+    <string name="watch_later_list">Watch Later List</string>
+    <string name="history_list">History List</string>
+</resources>

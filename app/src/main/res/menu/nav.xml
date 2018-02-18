@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/subscriptions"
+        android:icon="@drawable/ic_subscriptions_white_24dp"
+        android:title="@string/subscriptions" />
+
+    <item
+        android:id="@+id/playlists"
+        android:icon="@drawable/ic_list_white_24dp"
+        android:title="@string/playlists" />
+
+    <item
+        android:id="@+id/watch_later"
+        android:icon="@drawable/ic_thumb_up_white_24dp"
+        android:title="@string/liked" />
+
+    <item
+        android:id="@+id/other"
+        android:icon="@drawable/ic_more_horiz_white_24dp"
+        android:title="@string/other" />
+</menu>
