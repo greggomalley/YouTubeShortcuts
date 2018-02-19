@@ -39,7 +39,6 @@ public class MainActivity extends AppCompatActivity {
 
   private RecyclerView mShortcutsList;
   private ShortcutsAdapter mShortcutsAdapter;
-  private List<YouTubeResult> mResults;
   private ActionBar mToolbar;
 
   private String mCurrentTask;
